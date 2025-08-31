@@ -10,7 +10,8 @@
 - Java  
 - SQL / MySQL  
 - Python
-- Git & GitHub  
+- Git & GitHub
+- Jira
 
 ---
 
