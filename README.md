@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">🎓 Atualmente cursando **Técnico em Informática para Internet**  na WEG.  <br>📚 Compartilho meus projetos acadêmicos e registro minha evolução na área de TI.  <br>🚀 Focado em desenvolver e ampliar meus conhecimentos em tecnologia.</h4>
+<h4 align="left">🎓 Atualmente cursando Técnico em Informática para Internet  na WEG.  <br>📚 Compartilho meus projetos acadêmicos e registro minha evolução na área de TI.  <br>🚀 Focado em desenvolver e ampliar meus conhecimentos em tecnologia.</h4>
 
 ###
 
