@@ -1,58 +1,78 @@
-✨ Seja bem-vindo ao meu perfil!
-
-<h1 align="left">Olá 👋! Meu nome é Eric Gabriel</h1>
-
-###
-
-<h3 align="left">🎓 Atualmente cursando Técnico em Informática para Internet  na WEG.  <br>📚 Compartilho meus projetos acadêmicos e registro minha evolução na área de TI.  <br>🚀 Focado em desenvolver e ampliar meus conhecimentos em tecnologia.</h3>
-
-###
+<div align="center">
+  <h1>Olá 👋! Meu nome é Eric Gabriel</h1>
+  <p><i>Estudante de TI | Desenvolvedor Backend em evolução</i></p>
+</div>
 
 ---
+
+### 🚀 Sobre Mim
+
+* 🎓 **Educação:** Atualmente cursando Técnico em Informática para Internet na **WEG**.
+* 📚 **Foco:** Projetos acadêmicos e evolução no ecossistema Java/Spring.
+* 🎯 **Objetivo:** Me aprofundar em arquitetura de software e DDD.
+
+---
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAzczdmaGczZzV5Z2dkb21zcHprNTdkaHY0dmN0MWVyamNtcmVpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="600px" alt="Banner GIF" />
+</div>
+
+---
+
+### 👨🏻‍💻 Tecnologias & Ferramentas
+
+#### 🛠 Linguagens e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python)](https://skillicons.dev)
+
+#### 🗄️ Banco de Dados e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=mysql,postman,git,github)](https://skillicons.dev)
+
+#### 📂 Organização e IDEs
+[![My Skills](https://skillicons.dev/icons?i=notion,trello,jira,intellij)](https://skillicons.dev)
+
+#### ⚙️ Hardware e OS
+[![My Skills](https://skillicons.dev/icons?i=arduino,fedora)](https://skillicons.dev)
+
+---
+
+### 📊 Estatísticas e Conquistas
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/DX1cytoIQvnmgqBlQ3/giphy.gif"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricHafemann&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="top langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="stats card" />
+</div>
 
 ---
 
-###
+### Spotify Playing 🎧
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/31p7fscu45i7p5pht6363l36v7da">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&background_color=121212&show_offline=true&mode=dark" alt="Spotify" />
+  </a>
 </div>
-
-###
 
 ---
 
-<div align="left">
-  <a href="https://www.instagram.com/047_eric_/?next=https%3A%2F%2Fwww.instagram.com%2Ferichafemann%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+### 🤝 Networking e Redes Sociais
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eric-hafemann-785b07364/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://br.linkedin.com/in/eric-hafemann-785b07364" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/047_eric_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EricHafemann-Profile_Views-blue?style=flat-square&logo=github" alt="Views" />
+</div>
