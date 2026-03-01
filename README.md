@@ -34,6 +34,8 @@
 
 ---
 
+---
+
 ### 📊 Estatísticas e Conquistas
 
 <div align="center">
@@ -43,9 +45,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="top langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true" height="150" alt="top langs" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="stats card" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
 </div>
 
 ---
@@ -53,9 +55,7 @@
 ### Spotify Playing 🎧
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31p7fscu45i7p5pht6363l36v7da">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&background_color=121212&show_offline=true&mode=dark" alt="Spotify" />
-  </a>
+  <img src="https://novatorem-spotify-github-profile.vercel.app/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&background_color=121212&show_offline=true&mode=dark" alt="Spotify" />
 </div>
 
 ---
