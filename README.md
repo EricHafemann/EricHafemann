@@ -51,11 +51,11 @@
 
 ---
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/31p7fscu45i7p5pht6363l36v7da">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&mode=dark&v=final_test" alt="Spotify" />
+    <img src="https://novatorem-spotify-github-profile.vercel.app/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&mode=dark" alt="Spotify" />
   </a>
 </div>
 
