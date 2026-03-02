@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31p7fscu45i7p5pht6363l36v7da">
-    <img src="https://novatorem-spotify-github-profile.vercel.app/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&background_color=121212&show_offline=true&mode=dark&v=final_check" alt="Spotify" />
+    <img src="https://novatorem-spotify-github-profile.vercel.app/api/view?uid=31p7fscu45i7p5pht6363l36v7da&cover_image=true&theme=spotify-embed&background_color=121212&show_offline=true&mode=dark&v=final_fix_v3" alt="Spotify" />
   </a>
 </div>
 
