@@ -9,7 +9,7 @@
 
 * 🎓 **Educação:** Atualmente cursando Técnico em Informática para Internet na **WEG**.
 * 📚 **Foco:** Projetos acadêmicos e evolução no ecossistema Java/Spring.
-* 🎯 **Objetivo:** Me aprofundar em arquitetura de software e DDD.
+* 🎯 **Objetivo:** Me aprofundar em arquitetura de software, Clean Code e DDD.
 
 ---
 <div align="center">
