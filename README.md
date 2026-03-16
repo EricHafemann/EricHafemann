@@ -11,10 +11,6 @@
 * 📚 **Foco:** Projetos acadêmicos e evolução no ecossistema Java/Spring.
 * 🎯 **Objetivo:** Me aprofundar em arquitetura de software, Clean Code e DDD.
 
----
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAzczdmaGczZzV5Z2dkb21zcHprNTdkaHY0dmN0MWVyamNtcmVpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="600px" alt="Banner GIF" />
-</div>
 
 ---
 
