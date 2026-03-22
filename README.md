@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá 👋! Meu nome é Eric Gabriel</h1>
+  <h1>Olá 👋! Meu nome é Eric Gabriel Hafemann</h1>
   <p><i>Estudante de TI | Desenvolvedor Backend em evolução</i></p>
 </div>
 
