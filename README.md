@@ -50,17 +50,18 @@
 ### 📊 Estatísticas e Conquistas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricHafemann&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EricHafemann&theme=dracula&hide_border=true&cache_seconds=0" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true" height="150" alt="top langs" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true&cache_seconds=0" height="150" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true&cache_seconds=0" height="150" alt="stats card" />
 </div>
 
 ---
+
 
 ### Spotify Playing 🎧
 
