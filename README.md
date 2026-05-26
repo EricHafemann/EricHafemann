@@ -84,6 +84,6 @@
 
 <div align="center">
   
-  ![Views](https://komarev.com/ghpvc/?username=EricHafemann&label=Profile%20Views&color=0077B5&style=for-the-badge)
+  ![Views](https://komarev.com/ghpvc/?username=EricHafemannDev&label=Profile%20Views&color=0077B5&style=for-the-badge)
 
 </div>
