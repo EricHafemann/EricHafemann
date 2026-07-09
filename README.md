@@ -64,8 +64,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="150" alt="top langs" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=0&v=20260709" height="150" alt="top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true&cache_seconds=0&v=20260709" height="150" alt="stats card" />
 </div>
 
 ---
