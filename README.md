@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/eric-hafemann-785b07364/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/047_eric_/" target="_blank">
+  <a href="https://www.instagram.com/haf_eric/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
   <a href="mailto:eric070gabriel@gmail.com" target="_blank">
