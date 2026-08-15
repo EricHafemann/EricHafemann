@@ -28,6 +28,7 @@
 #### 🗄️ Banco de Dados e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,15 +59,10 @@
 
 ### 📊 Estatísticas e Conquistas
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EricHafemann&theme=dracula&hide_border=true&cache_seconds=0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EricHafemann&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricHafemann&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=0&v=20260709" height="150" alt="top langs" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EricHafemann&show_icons=true&theme=dracula&hide_border=true&cache_seconds=0&v=20260709" height="150" alt="stats card" />
-</div>
 
 ---
 
