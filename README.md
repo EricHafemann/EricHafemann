@@ -66,11 +66,6 @@
 
 ---
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jduwbaru6dvakjhwywzjfkc5om&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0e0c0c&interchange=true&profanity=false&bar_color=170c0e&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ### 🤝 Networking e Redes Sociais
 <div align="center">
   <a href="https://www.linkedin.com/in/eric-hafemann-785b07364/" target="_blank">
